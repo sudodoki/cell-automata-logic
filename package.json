@@ -1,0 +1,16 @@
+{
+    "name": "cell-automata",
+    "version": "0.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "jasmine-node spec/"
+    },
+    "author": "sudodoki <smd.deluzion@gmail.com> (http://sudodoki.name/)",
+    "license": "MIT",
+    "directories": {
+        "test": "spec"
+    },
+    "devDependencies": {
+        "jasmine-node": "~1.14.3"
+    }
+}
